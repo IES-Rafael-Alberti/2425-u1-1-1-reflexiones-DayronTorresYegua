@@ -85,17 +85,21 @@ Apoyate en los siguientes recursos para realizar la práctica:
 *1.1. Primera parte*
 **1.1.1. ¿Cómo se ejecuta el código en el procesador?**
 - Se carga en la RAM y el procesador va recuperando una a una las instrucciones y este las va ejecutando.
+
 **1.1.2. ¿Qué hace la memoria RAM con la información del botón o el LED?**
 - La guarda de forma temporal para poder acceder rápidamente a las instrucciones que contiene
+
 **1.1.3. ¿Cómo se comunican los periféricos (botón y LED) con el procesador?**
 - Se comunican mediante el código que este hace que cuando pulsemos el botón le llegue la instrucción al procesador de que tiene que encender o apagar el LED.
 
 *1.2. Segunda parte*
 **1.2.1. ¿Cómo interactúan el procesador, la memoria y los periféricos en la ejecución del programa?**
 - La memoria almacena de forma volátil o no volátil dependiendo del tipo que sea, el procesador lee y ejecuta las instrucciones almacenadas en la RAM, y los periféricos recogen información si es de entrada y la muestra en uno de salida 
+
 **1.2.2. ¿Qué pasa con los datos en la memoria cuando el programa se ejecuta?**
 - Se guardan para que se pueda acceder más rápidamente a las instrucciones
 **1.2.3. ¿Qué roles juegan las instrucciones del software en esta interacción?**
+
 Se encargan de que el botón pueda encender y apagar el LED.
 **1.2.4. ¿Cómo se relaciona esta simulación con lo que ocurre en un ordenador real?**
 - De forma que el procesador recibe instrucciones por parte del software para poder realizar operaciones.
