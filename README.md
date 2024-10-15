@@ -80,8 +80,7 @@ Apoyate en los siguientes recursos para realizar la práctica:
    - Detalla claramente cómo compilar y ejecutar el código, incluyendo las instrucciones en el archivo `README.md`.
 
 
-
-1. ### Relación software y hardware
+### 1. Relación software y hardware
 ***1.1. Primera parte***
 
 **1.1.1. ¿Cómo se ejecuta el código en el procesador?**
@@ -108,16 +107,28 @@ Apoyate en los siguientes recursos para realizar la práctica:
 - De forma que el procesador recibe instrucciones por parte del software para poder realizar operaciones.
 
 
-2. Del código fuente al ejecutable
-2.1. ¿Cómo se diferencia el código fuente del código objeto y del ejecutable?
-2.2. ¿Por qué el ordenador no puede entender el código fuente directamente?
-2.3. ¿Por qué es importante el paso de enlazado en la creación de programas?
-2.4. ¿Qué ocurre si falta alguna de las etapas (código objeto o ejecutable)?
+### 2. Del código fuente al ejecutable
+**2.1. ¿Cómo se diferencia el código fuente del código objeto y del ejecutable?**
+
+
+**2.2. ¿Por qué el ordenador no puede entender el código fuente directamente?**
+
+
+**2.3. ¿Por qué es importante el paso de enlazado en la creación de programas?**
+
+
+**2.4. ¿Qué ocurre si falta alguna de las etapas (código objeto o ejecutable)?**
 
 3. Generación de código intermedio
 3.1. ¿Cómo difiere el código intermedio del código ejecutable tradicional?
+
+
 3.2. ¿Por qué es útil tener una máquina virtual?
+
+
 3.3. ¿Qué ventajas ofrece el código intermedio?
+
+
 3.4. ¿Además de java, qué otros lenguajes usan máquinas virtuales?
 
 4. Lenguajes de programación
