@@ -110,26 +110,36 @@ Apoyate en los siguientes recursos para realizar la práctica:
 ### 2. Del código fuente al ejecutable
 **2.1. ¿Cómo se diferencia el código fuente del código objeto y del ejecutable?**
 
+- Codigo fuente es el que el programador escribe, el codigo objeto es la traducción del codigo fuente mediante un compilador y el codigo ejecutable es la versión final del programa que el ordenador puede ejecutar directamente
 
 **2.2. ¿Por qué el ordenador no puede entender el código fuente directamente?**
 
+- Porque los ordenadores solo entienden el lenguaje de máquina (0 y 1)
 
 **2.3. ¿Por qué es importante el paso de enlazado en la creación de programas?**
 
+- Porque toma los archivos del código objeto y los une en un solo archivo ejecutable
 
 **2.4. ¿Qué ocurre si falta alguna de las etapas (código objeto o ejecutable)?**
 
-3. Generación de código intermedio
-3.1. ¿Cómo difiere el código intermedio del código ejecutable tradicional?
+Que no podremos tener el programa final ya que sin el codigo objeto no tendriamos la traducción del código fuente y sin el ejecutable no podriamos iniciar el programa
+
+### 3. Generación de código intermedio
+**3.1. ¿Cómo difiere el código intermedio del código ejecutable tradicional?**
+
+- El código intermedio puede ser ejecutado por diferentes máquinas virtuales permitiendo que el programa funcione en diversos sistemas operativos
+
+**3.2. ¿Por qué es útil tener una máquina virtual?**
 
 
-3.2. ¿Por qué es útil tener una máquina virtual?
 
+**3.3. ¿Qué ventajas ofrece el código intermedio?**
 
-3.3. ¿Qué ventajas ofrece el código intermedio?
+- Ofrece ventajas como la portabilidad, es decir, que el mismo programa puede correr en diferentes S.O sin necesidad de volver a compilar el código
+- Seguridad, ya que a las máquinas virtuales se les puede agregar capas de seguridad que permiten verifiar y controklar el acceso del código intermedio al sistema operativo y al hardware
+- Optimización en Tiempo de Ejecución, algunas máquinas virtuales usan tecnicas como compilación Just-In-Time que convierte el codigo intermedio en código justo antes de este sea ejecutado.
 
-
-3.4. ¿Además de java, qué otros lenguajes usan máquinas virtuales?
+**3.4. ¿Además de java, qué otros lenguajes usan máquinas virtuales?**
 
 4. Lenguajes de programación
 4.1. Primera parte
