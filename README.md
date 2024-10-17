@@ -131,7 +131,7 @@ Que no podremos tener el programa final ya que sin el codigo objeto no tendriamo
 
 **3.2. ¿Por qué es útil tener una máquina virtual?**
 
-
+- Porque  actúa como interprete o mediador entre el código intermedio y el hardware, se encargan de ejecutar el código intermedio y lo traduce a instrucciones que el procesador pueda entender
 
 **3.3. ¿Qué ventajas ofrece el código intermedio?**
 
@@ -141,37 +141,89 @@ Que no podremos tener el programa final ya que sin el codigo objeto no tendriamo
 
 **3.4. ¿Además de java, qué otros lenguajes usan máquinas virtuales?**
 
-4. Lenguajes de programación
-4.1. Primera parte
-Compara el proceso de ejecución entre el lenguaje compilado y el interpretado.
-4.1.1. ¿Qué diferencias notaron en el proceso de compilación frente a la ejecución directa?
-4.1.2. ¿Qué pasa si hay un error de sintaxis en cada lenguaje? ¿Cuándo se detecta el error?
+- Pyhton o ruby
 
-4.2. Segunda parte
-Compara un lenguaje de alto nivel con uno de bajo nivel.
-4.2.1. ¿Qué notaron sobre la abstracción entre los lenguajes de alto nivel y bajo nivel?
-4.2.2. ¿Qué ventajas y desventajas encontraron en cada uno?
+### 4. Lenguajes de programación
+***4.1. Primera parte***
+**Compara el proceso de ejecución entre el lenguaje compilado y el interpretado.**
 
-4.3. Tercera parte
-Compara un lenguaje orientado a objetos vs funcional.
-4.3.1. ¿Cómo funciona la organización de datos en Java usando objetos y métodos?
-4.3.2. ¿Cómo es diferente trabajar en un enfoque funcional en Python, usando solo funciones puras?
+**4.1.1. ¿Qué diferencias notaron en el proceso de compilación frente a la ejecución directa?**
 
-4.4. Reflexión final
-4.4.1. ¿Qué lenguajes se sintieron más fáciles de usar? ¿Por qué?
-4.4.2. ¿En qué casos es preferible usar un lenguaje compilado frente a uno interpretado?
-4.4.3. ¿Cuándo es mejor usar un lenguaje de alto nivel en lugar de uno de bajo nivel?
-4.4.4. ¿Cómo se siente trabajar con el paradigma orientado a objetos en comparación con el imperativo o funcional?
+- En el proceso de compilación el codigo fuente tiene que ser "traducido" a código objeto y este despues tiene que ser convertido a ejecutable mientrás que en la ejecución directa el interprete lee el código directamente y lo ejecuta linea por linea.
 
-5. Herramientas de desarrollo
-5.1. Primera parte
-Respecto a las proceso de creación de software identifica un conjunto de herramientas a usar.
-5.1.1. ¿Qué hace cada una de las herramientas?
-5.1.2. ¿Qué tipo de tareas facilita?
-5.1.3. ¿Qué características ofrece que la hacen única o diferente de otras herramientas similares?
-5.1.4. Elige una ¿Cómo es la experiencia de usuario al usarla? ¿Es fácil o compleja?
-5.1.5. Elige una ¿En qué situaciones sería ideal utilizar esta herramienta?
-5.1.6. Elige una ¿Qué limitaciones encontraste en la herramienta?
+**4.1.2. ¿Qué pasa si hay un error de sintaxis en cada lenguaje? ¿Cuándo se detecta el error?**
+
+- En el lenguaje interpretado lee linea por linea y si hay un error no lo detectará hasta llegara la linea del error.
+- En el lenguaje compilado se detecta a la hora de compilar el código
+
+***4.2. Segunda parte***
+**Compara un lenguaje de alto nivel con uno de bajo nivel.**
+
+**4.2.1. ¿Qué notaron sobre la abstracción entre los lenguajes de alto nivel y bajo nivel?**
+
+- Que los lenguajes de alto nivel son más faciles de leer y entender para las personas mientras que el de bajo nivel es más complicado de entender para las personas y más facil para la máquina.
+
+**4.2.2. ¿Qué ventajas y desventajas encontraron en cada uno?**
+
+- Alto nivel: Más fácil de escribir y entender pero menos control sobre los detalles de bajo nivel.
+- Bajo nivel: Más dificil de escribir y entender pero ofrece mucho  control y eficiencia.
+
+***4.3. Tercera parte***
+**Compara un lenguaje orientado a objetos vs funcional.**
+
+**4.3.1. ¿Cómo funciona la organización de datos en Java usando objetos y métodos?**
+
+- Organizan el código en objetos, que son instancias de clases.
+
+**4.3.2. ¿Cómo es diferente trabajar en un enfoque funcional en Python, usando solo funciones puras?**
+
+- 
+
+***4.4. Reflexión final***
+**4.4.1. ¿Qué lenguajes se sintieron más fáciles de usar? ¿Por qué?**
+
+- Python, porque es más fácil de escribir y de entender
+
+**4.4.2. ¿En qué casos es preferible usar un lenguaje compilado frente a uno interpretado?**
+
+- En casos en los que tengamos pensado ejecutar el programa en un solo sistema ya que el lenguaje compilado es más rápido.
+
+**4.4.3. ¿Cuándo es mejor usar un lenguaje de alto nivel en lugar de uno de bajo nivel?**
+
+- Cuando no sea necesario un gran control sobre los detalles del hardware.
+
+**4.4.4. ¿Cómo se siente trabajar con el paradigma orientado a objetos en comparación con el imperativo o funcional?**
+
+- 
+
+
+### 5. Herramientas de desarrollo
+***5.1. Primera parte***
+**Respecto a las proceso de creación de software identifica un conjunto de herramientas a usar.**
+
+**5.1.1. ¿Qué hace cada una de las herramientas?**
+
+- 
+
+**5.1.2. ¿Qué tipo de tareas facilita?**
+
+- 
+
+**5.1.3. ¿Qué características ofrece que la hacen única o diferente de otras herramientas similares?**
+
+- 
+
+**5.1.4. Elige una ¿Cómo es la experiencia de usuario al usarla? ¿Es fácil o compleja?**
+
+- 
+
+**5.1.5. Elige una ¿En qué situaciones sería ideal utilizar esta herramienta?**
+
+- 
+
+**5.1.6. Elige una ¿Qué limitaciones encontraste en la herramienta?**
+
+- 
 
 5.2. Segunda parte
 Céntrate en una herramienta dentro de la misma categoría y compárala con otras:
