@@ -12,15 +12,15 @@ Apoyate en los siguientes recursos para realizar la práctica:
 # Título de la Actividad
 
 ## Identificación de la Actividad
-- **ID de la Actividad:** [ID de la actividad]
-- **Módulo:** [Nombre del módulo] (`PROG`, `IS`, `EDES`, etc.)
-- **Unidad de Trabajo:** [Número y nombre de la unidad de trabajo]
-- **Fecha de Creación:** [Fecha de creación]
-- **Fecha de Entrega:** [Fecha de entrega]
+- **ID de la Actividad:** 2425-u1-1-1-reflexiones-DayronTorresYegua
+- **Módulo:** EDES
+- **Unidad de Trabajo:** u1-1-1
+- **Fecha de Creación:** 17/10/2024
+- **Fecha de Entrega:** 17/10/2024
 - **Alumno(s):** 
-  - **Nombre y Apellidos:** [Nombre y Apellidos del alumno o integrantes del grupo]
-  - **Correo electrónico:** [Correo electrónico g.educaand.es]
-  - **Iniciales del Alumno/Grupo:** [Iniciales del alumno o del grupo]
+  - **Nombre y Apellidos:** Dayron Torres Yegua
+  - **Correo electrónico:** dtoryeg519@g.educaand.es
+  - **Iniciales del Alumno/Grupo:** DTY
 
 ## Descripción de la Actividad
 [Descripción detallada de la actividad, objetivos, y contexto necesario para comprenderla. Explicar en qué consiste la actividad y qué se espera que el alumno desarrolle o implemente.]
@@ -194,7 +194,7 @@ Que no podremos tener el programa final ya que sin el codigo objeto no tendriamo
 
 **4.4.4. ¿Cómo se siente trabajar con el paradigma orientado a objetos en comparación con el imperativo o funcional?**
 
-- 
+- Me parece más cómodo a la hora de organizar el código
 
 
 ### 5. Herramientas de desarrollo
@@ -225,7 +225,7 @@ Que no podremos tener el programa final ya que sin el codigo objeto no tendriamo
 
 - 
 
-5.2. Segunda parte
+***5.2. Segunda parte***
 Céntrate en una herramienta dentro de la misma categoría y compárala con otras:
 5.2.1. ¿Qué herramienta se considera más útil y por qué?
 5.2.2. ¿Qué ventajas tiene una sobre la otra?
