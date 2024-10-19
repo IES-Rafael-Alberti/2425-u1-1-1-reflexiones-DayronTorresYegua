@@ -15,69 +15,21 @@ Apoyate en los siguientes recursos para realizar la práctica:
 - **ID de la Actividad:** 2425-u1-1-1-reflexiones-DayronTorresYegua
 - **Módulo:** EDES
 - **Unidad de Trabajo:** u1-1-1
-- **Fecha de Creación:** 17/10/2024
-- **Fecha de Entrega:** 17/10/2024
+- **Fecha de Creación:** 19/10/2024
+- **Fecha de Entrega:** 19/10/2024
 - **Alumno(s):** 
   - **Nombre y Apellidos:** Dayron Torres Yegua
   - **Correo electrónico:** dtoryeg519@g.educaand.es
   - **Iniciales del Alumno/Grupo:** DTY
 
 ## Descripción de la Actividad
-[Descripción detallada de la actividad, objetivos, y contexto necesario para comprenderla. Explicar en qué consiste la actividad y qué se espera que el alumno desarrolle o implemente.]
-
-## Instrucciones de Compilación y Ejecución
-1. **Requisitos Previos:**
-   - [Lenguaje de programación y versión]
-   - [Entorno de desarrollo o dependencias necesarias]
-
-2. **Pasos para Compilar el Código:**
-   ```bash
-   [Comando para compilar el código]
-   ```
-
-3. **Pasos para Ejecutar el Código:**
-   ```bash
-   [Comando para ejecutar la aplicación]
-   ```
-
-4. **Ejecución de Pruebas:**
-   ```bash
-   [Comandos para ejecutar pruebas, si las hubiera]
-   ```
-
-## Desarrollo de la Actividad
-### Descripción del Desarrollo
-[Explicación de cómo se ha abordado el desarrollo de la actividad, incluyendo las decisiones de diseño, estructura del código y enfoque de resolución de problemas. Se recomienda adjuntar diagramas o capturas de pantalla si es necesario.]
-
-### Código Fuente
-[Aquí se incluirá un enlace directo a los archivos de código fuente en el repositorio, por ejemplo, si se está usando GitHub: `src/main.java` o algún enlace directo.]
-
-### Ejemplos de Ejecución
-- **Entrada 1:** Descripción de la entrada y valor de prueba.
-- **Salida Esperada 1:** Explicación de la salida esperada y el resultado de la prueba.
-
-### Resultados de Pruebas
-[Aquí se detallará cómo se ha verificado la funcionalidad del código, incluyendo resultados de pruebas automatizadas o manuales, en caso de que las haya.]
-
-## Documentación Adicional
-- **Manual de Usuario:** [Enlace a la documentación del usuario, si existe]
-- **Autorización de Permisos:** Verificar que el profesor tenga permisos de lectura en el repositorio para revisar el código.
+[Descripción detallada de la actividad, objetivos, y contexto necesario para comprenderla. Explicar en qué consiste la actividad y qué se espera que el alumno desarrolle o implemente.] En esta actividad vamos a reponder una serie de preguntas relacionadas con el desarrollo del software. responder una serie de preguntas relacionadas con: Relación software y hardware, Del código fuente al ejecutable, Generación de código intermedio, Lenguajes de programación y Herramientas de desarrollo
 
 ## Conclusiones
-[Resumen de las conclusiones alcanzadas al desarrollar la actividad, las lecciones aprendidas, y posibles mejoras que se puedan implementar en futuras entregas.]
+En esta actividad hemos aprendido sobre como se relaciona el hardware y el software, las diferencias y funciones de cada tipo de código(fuente, objeto y ejecutable), que es el código intermedio y como funciona, que son los traductores y su función, aprender sobre los diferentes tipos de lenguajes de programación y a que estas orientados cada uno y sobre las herramientas y funcionalidades y para que sirve cada una.
 
 ## Referencias y Fuentes
-[Aquí se listarán las fuentes consultadas para el desarrollo de la actividad, tales como documentación oficial, artículos, o cualquier recurso externo relevante.]
-
-### Notas Adicionales:
-1. **Nombres de Archivos y Repositorios:**
-   - Asegúrate de que el nombre del archivo o repositorio siga la estructura definida: `XXX-idActividad-Iniciales`.
-2. **Permisos:**
-   - Verifica que el profesor tenga los permisos necesarios para acceder al repositorio o documento.
-3. **Formato:**
-   - Si se entrega en formato PDF o Google Docs, asegúrate de cumplir con el mínimo y máximo de folios establecidos.
-4. **Compilación y Ejecución:**
-   - Detalla claramente cómo compilar y ejecutar el código, incluyendo las instrucciones en el archivo `README.md`.
+Uso de la siguiente página https://revilofe.github.io/section3/u01/ y algunas consultas a chatgpt
 
 
 ### 1. Relación software y hardware
@@ -177,7 +129,7 @@ Que no podremos tener el programa final ya que sin el codigo objeto no tendriamo
 
 **4.3.2. ¿Cómo es diferente trabajar en un enfoque funcional en Python, usando solo funciones puras?**
 
-- 
+- Resulta en un código más predicible, modular y facil de mantener
 
 ***4.4. Reflexión final***
 **4.4.1. ¿Qué lenguajes se sintieron más fáciles de usar? ¿Por qué?**
@@ -203,39 +155,67 @@ Que no podremos tener el programa final ya que sin el codigo objeto no tendriamo
 
 **5.1.1. ¿Qué hace cada una de las herramientas?**
 
-- 
+- Editores de texto: se usa para escribir y modificar el código fuente de los programas.
+- Compiladores: traduce el código fuente a código máquina.
+- Interpretes: ejecuta el código fuente línea por línea, sin necesidad de compilarlo previamente a código máquina.
+- Sitemas de gestión de versiones: permiten a los desarrolladores rastrear los cambios en su código, trabajar en diferentes ramas de desarrollo y colaborar sin riesgo de sobrescribir el trabajo de otros.
+- Depuradores: herramientas que permiten detener la ejecución de un programa en puntos específicos y examinar su estado interno para detectar errores lógicos y fallos.
+- Frameworks: proporcionan una estructura predefinida para desarrollar aplicaciones, facilitando la creación de proyectos mediante librerías y plantillas reutilizables.
+- Herramientas de pruebas y calidad: aseguran que el software funcione como se espera. Pueden realizar pruebas automáticas de diferentes aspectos del software, desde pruebas unitarias hasta pruebas de carga y rendimiento.
 
 **5.1.2. ¿Qué tipo de tareas facilita?**
 
-- 
+- Facilta tareas como la edicion del código, la depuración, el control de versiones, compilación, ejecución y la documentación 
 
 **5.1.3. ¿Qué características ofrece que la hacen única o diferente de otras herramientas similares?**
 
-- 
+- Ofrece un gran numero de extesiones que pueden ayudar en temas de personalizacion o eficiencia.
 
 **5.1.4. Elige una ¿Cómo es la experiencia de usuario al usarla? ¿Es fácil o compleja?**
 
-- 
+- La experiencia de usuario con Git en VSCode es que es muy facil de usar.
 
 **5.1.5. Elige una ¿En qué situaciones sería ideal utilizar esta herramienta?**
 
-- 
+- Para el trabajo en equipo o si trabajas en diferentes dispositivos.
 
 **5.1.6. Elige una ¿Qué limitaciones encontraste en la herramienta?**
 
-- 
+- Cuando en un espacio de trabajo hay multiples repositorios al mismo tiempo.
 
 ***5.2. Segunda parte***
-Céntrate en una herramienta dentro de la misma categoría y compárala con otras:
-5.2.1. ¿Qué herramienta se considera más útil y por qué?
-5.2.2. ¿Qué ventajas tiene una sobre la otra?
-5.2.3. ¿Cuál herramienta resultó ser la más intuitiva y por qué?
-5.2.4. ¿En qué casos se recomendaría usar un compilador en lugar de un intérprete?
-5.2.5. ¿Qué tipo de proyectos se beneficiarían más de un framework como Django?
+**Céntrate en una herramienta dentro de la misma categoría y compárala con otras:**
 
-5.3. Reflexión final
-Con base en la experiencia de evaluación de las herramientas:
-5.3.1. ¿Cómo crees que impacta la elección de la herramienta en la calidad del software?
-5.3.2. ¿Qué características buscarías en una herramienta para facilitar tu flujo de trabajo?
-5.3.3. ¿Cómo cambió tu percepción de estas herramientas después de haberlas probado y evaluado?
+**5.2.1. ¿Qué herramienta se considera más útil y por qué?**
 
+- Git, ya que permite operacioens comunes dentro del mismo editor sin necesidad de cambiar entre diferentes aplicaciones.
+
+**5.2.2. ¿Qué ventajas tiene una sobre la otra?**
+
+- Git es ligero y rapido y soporta multiples lenguajes gracias a que VSCode es un editor de multiples lenguajes.
+
+**5.2.3. ¿Cuál herramienta resultó ser la más intuitiva y por qué?**
+
+- Git, ya que permite realizar operaciones básicas con solo haces pocos clicks sin tener que abrir alguna ventana ademas de que para aprender es más facil de usar
+
+**5.2.4. ¿En qué casos se recomendaría usar un compilador en lugar de un intérprete?**
+
+- Para el rendimiento, por ejemplo en un juego en mejor usar un compilador ya que genera un archivo optimizado lo que mejora la velocidad de ejecución.
+
+**5.2.5. ¿Qué tipo de proyectos se beneficiarían más de un framework como Django?**
+
+- En aplicaciones empresariales ya que son proyectos que requieren de una arquitectura robusta, segura y con un manejo eficiente de bases de datos.
+
+***5.3. Reflexión final***
+**Con base en la experiencia de evaluación de las herramientas:**
+**5.3.1. ¿Cómo crees que impacta la elección de la herramienta en la calidad del software?**
+
+- Que dependiendo de la herramienta de utilizes y la calidad de la herramienta te podrá ser bastante beneficioso a la hora de desarrollar el software
+
+**5.3.2. ¿Qué características buscarías en una herramienta para facilitar tu flujo de trabajo?**
+
+- Que sea intuitiva, facil de manjenar y que sea de buena calidad
+
+**5.3.3. ¿Cómo cambió tu percepción de estas herramientas después de haberlas probado y evaluado?**
+
+- Me ha hecho darme cuenta que es bastante importante elegir bien la herramienta ya afectan beneficiosamente y son de mucha ayuda a la hora de desarrollar.
